@@ -1,1 +1,5 @@
 Created On: 22-Dec-2022
+
+1. Unzip w3files.zip
+2. Run setup.sh
+3. Set the PATHS in front controller.
