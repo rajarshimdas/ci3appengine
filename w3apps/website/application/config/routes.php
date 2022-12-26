@@ -55,4 +55,4 @@ $route['translate_uri_dashes'] = FALSE;
 
 
 // My Routes
-require_once(APPPATH.'/my-routes.php');
+require_once(APPPATH.'/routes.php');
