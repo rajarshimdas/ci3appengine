@@ -6,10 +6,9 @@
 | Updated On: 											|
 +-------------------------------------------------------+
 */
-define('APPFOLDER', "/home/rd/Apps/ci3appengine");
-define('CI3', APPFOLDER."/ci3/framework");
-define('W3ROOT', APPFOLDER."/w3apps/website/w3root");
 
+// Load Custom Config
+require '../../../ci3/ci3config/ci3.php';
 
 /*
  *---------------------------------------------------------------
