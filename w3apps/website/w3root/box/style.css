@@ -1,23 +1,22 @@
+/*
++-------------------------------------------------------+
+| Rajarshi Das						                    |
++-------------------------------------------------------+
+| Created On: 22-Dec-2022				                |
+| Updated On: 											|
++-------------------------------------------------------+
+*/
 body{
     background-color: #173f4f;
 }
-.box1 {
-    padding-bottom: 5rem;
-}
-.box2{
-    background-color: #4bb679;
-    width: 100%;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-}
-.banner {
+.rd-banner {
     color: #35b9ab;
     padding-top: 5rem;
     font-size: 300%;
 }
-.story {
+.rd-content {
     color: white;
 }
-.text-muted-gray {
+.rd-text-muted-gray {
     color: RGB(210,210,210);
 }
