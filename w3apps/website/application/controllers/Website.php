@@ -22,4 +22,8 @@ class Website extends CI_Controller {
 	{
 		$this->load->view('homepage');
 	}
+
+	public function hello(){
+		echo 'helloworld!';
+	}
 }
