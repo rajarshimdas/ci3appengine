@@ -4,7 +4,8 @@
     </div>
     <div class="rd-content">
         <p>
-            CodeIgniter3 with multi-app architecture.
+            TinkerBox is a fictitious App.
+            It serves in Appengine development and as a seed app for new projects (Batteries included).
         </p>
     </div>
 </div>
