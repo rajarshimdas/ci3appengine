@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Appengine</title>
+    <title><?= $title ?></title>
     <link rel="icon" href="images/favicon.png">
     <link href="box/bs5/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="box/style.css" rel="stylesheet" type="text/css">
@@ -13,17 +13,3 @@
 </head>
 
 <body>
-    <div class='container'>
-        <div class="rd-banner">
-            <p>ci3appengine</p>
-        </div>
-        <div class="rd-content">
-            <p>
-                CodeIgniter3 with multi-app architecture.
-            </p>
-        </div>
-    </div>
-    <script src="box/bs5/js/bootstrap.min.js"></script>
-</body>
-
-</html>
