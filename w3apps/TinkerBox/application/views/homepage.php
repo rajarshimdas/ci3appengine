@@ -5,7 +5,7 @@
     <div class="rd-content">
         <p>
             TinkerBox is a fictitious App.
-            It serves in Appengine development and as a seed app for new projects (Batteries included).
+            It serves in Appengine development and as a seed app (batteries included) for new projects.
         </p>
     </div>
 </div>

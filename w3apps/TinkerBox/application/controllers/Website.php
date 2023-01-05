@@ -7,7 +7,9 @@ class Website extends CI_Controller
 	{
 		$data = array(
 
+			// Headers
 			'title' => 'TinkerBox',
+			'canonical' => '',
 
 			// The Open Graph Protocol (see: ogp.me)
 			'og_title' => 'TinkerBox | Mixed sized Bombs',

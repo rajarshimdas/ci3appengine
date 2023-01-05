@@ -1,8 +1,9 @@
 Created On: 22-Dec-2022
 
 Goal:
-1. One Appengine to serve multiple apps
+1. One Appengine (ci3appengine) to serve multiple apps
 2. Appengine as well as other apps have independent git repos 
+3. Start new project (batteries included) in 15 min
 
 Installation Notes:
 1. Unzip w3files.zip
