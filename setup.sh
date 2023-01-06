@@ -7,6 +7,7 @@ sudo find .. \( -type d -exec chmod 755 {} \; \) -o \( -type f -exec chmod 644 {
 
 # setup script
 chmod +x setup.sh
+chmod +x ci3/bin/*.sh
 
 # Writable folder
 foldername=w3files

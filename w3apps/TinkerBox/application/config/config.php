@@ -236,7 +236,7 @@ $config['log_threshold'] = 2;
 | application/logs/ directory. Use a full server path with trailing slash.
 |
 */
-$config['log_path'] = W3FILES . '/logs/';
+$config['log_path'] = W3FILES . '/logs/tinkerbox/';
 // echo $config['log_path'];
 /*
 |--------------------------------------------------------------------------
