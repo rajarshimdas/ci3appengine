@@ -8,7 +8,7 @@
 */
 
 // Set appropriate path for each installation
-define('APPFOLDER', "/home/rd/Apps/ci3appengine");
+define('APPFOLDER', "/var/www/ci3appengine");
 
 // No change required 
 define('CI3', APPFOLDER."/ci3/framework");

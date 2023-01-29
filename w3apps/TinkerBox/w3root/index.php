@@ -8,7 +8,7 @@
 */
 
 // Load Custom Config
-require '/home/rd/Apps/ci3appengine/ci3/ci3config/ci3.php';
+require '/var/www/ci3appengine/ci3/ci3config/ci3.php';
 
 /*
  *---------------------------------------------------------------
