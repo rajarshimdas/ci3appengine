@@ -1,3 +1,8 @@
+# Projects
+/w3apps/
+!/w3apps/TinkerBox
+
+# Code
 *.code-workspace
 /w3files/
 
